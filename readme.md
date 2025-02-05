@@ -1,3 +1,4 @@
+A small python web app to deal with nested contacts being stored in a postgres DB and a migration script
 
 Project Description : The project aims to develop a robust and efficient Contact Management Service using Flask, a Python micro web framework. The service will provide API endpoints to handle POST requests for fetching and updating data from a PostgreSQL database. Additionally, the entire application is containerized using Docker for seamless deployment and scalability.
 
